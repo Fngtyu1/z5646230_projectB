@@ -1,0 +1,23 @@
+dataset,check,value,resolution
+equity,raw_rows,50300,Loaded through src.data_access
+equity,duplicate_key_rows,0,Deduplicated on ticker-date
+equity,missing_required_rows,0,Removed incomplete required records
+equity,nonpositive_price_rows,0,Removed invalid price records
+equity,negative_volume_rows,0,Removed invalid volume records
+equity,ohlc_inconsistent_rows,0,Removed internally inconsistent OHLC records
+equity,non_observed_calendar_days,1800,Audited only; equity weekdays include exchange holidays
+equity,extreme_return_rows_abs_ge_20pct,16,Retained as genuine market observations
+equity,clean_rows,50300,Final clean panel
+crypto,raw_rows,14610,Loaded through src.data_access
+crypto,duplicate_key_rows,0,Deduplicated on ticker-date
+crypto,missing_required_rows,0,Removed incomplete required records
+crypto,nonpositive_price_rows,0,Removed invalid price records
+crypto,negative_volume_rows,0,Removed invalid volume records
+crypto,ohlc_inconsistent_rows,0,Removed internally inconsistent OHLC records
+crypto,non_observed_calendar_days,0,Audited only; equity weekdays include exchange holidays
+crypto,extreme_return_rows_abs_ge_20pct,112,Retained as genuine market observations
+crypto,clean_rows,14610,Final clean panel
+news,raw_rows,149683,Loaded through src.data_access
+news,duplicate_headline_rows,5617,Deduplicated on ticker-date-title
+news,missing_title_rows,0,Removed records without a title
+news,clean_rows,146836,Final headline panel

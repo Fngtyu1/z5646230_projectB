@@ -1,0 +1,4 @@
+family,assets,calendar,periods_per_year,initial_window,first_live_date,rebalance,max_single_asset_weight
+Equity,50,Equity trading days,252,2020 expanding,2021-01-04,First observed day monthly,0.2
+Crypto,10,Calendar days,365,2020 expanding,2021-01-01,First observed day monthly,0.25
+Combined,60,Equity trading days,252,2020 expanding,2021-01-04,First observed day monthly,0.2
