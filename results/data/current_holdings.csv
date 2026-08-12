@@ -1,0 +1,481 @@
+fund,family,method,rebalance_date,ticker,weight,asset_class,allocation_group
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ABBV,0.016666666666666666,Equity,Healthcare
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ABT,0.016666666666666666,Equity,Healthcare
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ADA-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ADBE,0.016666666666666666,Equity,Tech
+Combined Equal-Weight,combined,equal_weight,2023-12-01,AEP,0.016666666666666666,Equity,Utilities
+Combined Equal-Weight,combined,equal_weight,2023-12-01,AMD,0.016666666666666666,Equity,Tech
+Combined Equal-Weight,combined,equal_weight,2023-12-01,AMGN,0.016666666666666666,Equity,Healthcare
+Combined Equal-Weight,combined,equal_weight,2023-12-01,AMT,0.016666666666666666,Equity,RealEstate
+Combined Equal-Weight,combined,equal_weight,2023-12-01,BA,0.016666666666666666,Equity,Industrials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,BCH-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,BTC-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,CAT,0.016666666666666666,Equity,Industrials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,CCI,0.016666666666666666,Equity,RealEstate
+Combined Equal-Weight,combined,equal_weight,2023-12-01,CMCSA,0.016666666666666666,Equity,Comm
+Combined Equal-Weight,combined,equal_weight,2023-12-01,COP,0.016666666666666666,Equity,Energy
+Combined Equal-Weight,combined,equal_weight,2023-12-01,CVX,0.016666666666666666,Equity,Energy
+Combined Equal-Weight,combined,equal_weight,2023-12-01,D,0.016666666666666666,Equity,Utilities
+Combined Equal-Weight,combined,equal_weight,2023-12-01,DD,0.016666666666666666,Equity,Materials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,DIS,0.016666666666666666,Equity,Consumer
+Combined Equal-Weight,combined,equal_weight,2023-12-01,DOW,0.016666666666666666,Equity,Materials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,DUK,0.016666666666666666,Equity,Utilities
+Combined Equal-Weight,combined,equal_weight,2023-12-01,EA,0.016666666666666666,Equity,Comm
+Combined Equal-Weight,combined,equal_weight,2023-12-01,EOS-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ETC-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,ETH-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,GE,0.016666666666666666,Equity,Industrials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,GILD,0.016666666666666666,Equity,Healthcare
+Combined Equal-Weight,combined,equal_weight,2023-12-01,GS,0.016666666666666666,Equity,Financials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,INTC,0.016666666666666666,Equity,Tech
+Combined Equal-Weight,combined,equal_weight,2023-12-01,KO,0.016666666666666666,Equity,Consumer
+Combined Equal-Weight,combined,equal_weight,2023-12-01,LTC-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,MMM,0.016666666666666666,Equity,Industrials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,MRK,0.016666666666666666,Equity,Healthcare
+Combined Equal-Weight,combined,equal_weight,2023-12-01,MS,0.016666666666666666,Equity,Financials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,NEE,0.016666666666666666,Equity,Utilities
+Combined Equal-Weight,combined,equal_weight,2023-12-01,NEM,0.016666666666666666,Equity,Materials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,NKE,0.016666666666666666,Equity,Consumer
+Combined Equal-Weight,combined,equal_weight,2023-12-01,NUE,0.016666666666666666,Equity,Materials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,NVDA,0.016666666666666666,Equity,Tech
+Combined Equal-Weight,combined,equal_weight,2023-12-01,O,0.016666666666666666,Equity,RealEstate
+Combined Equal-Weight,combined,equal_weight,2023-12-01,OXY,0.016666666666666666,Equity,Energy
+Combined Equal-Weight,combined,equal_weight,2023-12-01,PLD,0.016666666666666666,Equity,RealEstate
+Combined Equal-Weight,combined,equal_weight,2023-12-01,PSA,0.016666666666666666,Equity,RealEstate
+Combined Equal-Weight,combined,equal_weight,2023-12-01,QCOM,0.016666666666666666,Equity,Tech
+Combined Equal-Weight,combined,equal_weight,2023-12-01,SBUX,0.016666666666666666,Equity,Consumer
+Combined Equal-Weight,combined,equal_weight,2023-12-01,SHW,0.016666666666666666,Equity,Materials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,SLB,0.016666666666666666,Equity,Energy
+Combined Equal-Weight,combined,equal_weight,2023-12-01,SO,0.016666666666666666,Equity,Utilities
+Combined Equal-Weight,combined,equal_weight,2023-12-01,T,0.016666666666666666,Equity,Comm
+Combined Equal-Weight,combined,equal_weight,2023-12-01,TMUS,0.016666666666666666,Equity,Comm
+Combined Equal-Weight,combined,equal_weight,2023-12-01,TRX-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,TTWO,0.016666666666666666,Equity,Comm
+Combined Equal-Weight,combined,equal_weight,2023-12-01,UPS,0.016666666666666666,Equity,Industrials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,USB,0.016666666666666666,Equity,Financials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,V,0.016666666666666666,Equity,Financials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,WFC,0.016666666666666666,Equity,Financials
+Combined Equal-Weight,combined,equal_weight,2023-12-01,WMT,0.016666666666666666,Equity,Consumer
+Combined Equal-Weight,combined,equal_weight,2023-12-01,XLM-USD,0.016666666666666666,Crypto,Crypto
+Combined Equal-Weight,combined,equal_weight,2023-12-01,XOM,0.016666666666666666,Equity,Energy
+Combined Equal-Weight,combined,equal_weight,2023-12-01,XRP-USD,0.016666666666666666,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ABBV,0.20000000000000018,Equity,Healthcare
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,NVDA,0.19999999999999793,Equity,Tech
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,NUE,0.19999999999997342,Equity,Materials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,GILD,0.0998302275717437,Equity,Healthcare
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,BTC-USD,0.0883372949592913,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,TRX-USD,0.06521013784364273,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,TMUS,0.05727701269089942,Equity,Comm
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,WMT,0.03849352747460384,Equity,Consumer
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,XRP-USD,0.015799644640697427,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ETC-USD,0.015173544924611855,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,XOM,0.012926839777026963,Equity,Energy
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,OXY,0.0044002753237965715,Equity,Energy
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ETH-USD,0.002551494793679898,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,EOS-USD,5.0993828272814614e-15,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,LTC-USD,3.596616693475895e-15,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,AMD,2.4942152319272797e-15,Equity,Tech
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,DIS,2.290240705120824e-15,Equity,Consumer
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,COP,2.280542991820485e-15,Equity,Energy
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,BCH-USD,2.1503458837769574e-15,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,INTC,1.8171061432480925e-15,Equity,Tech
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,BA,1.790086937048648e-15,Equity,Industrials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,PSA,1.4722539238349143e-15,Equity,RealEstate
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,MMM,1.283321517649058e-15,Equity,Industrials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ADA-USD,1.0497393433159862e-15,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,WFC,9.203363543907497e-16,Equity,Financials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,AMT,8.5875439891251205e-16,Equity,RealEstate
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,USB,8.479347375339755e-16,Equity,Financials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,XLM-USD,7.970728694562661e-16,Crypto,Crypto
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,DD,7.8282878750547e-16,Equity,Materials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,QCOM,7.238558192362288e-16,Equity,Tech
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,MRK,6.479100477832976e-16,Equity,Healthcare
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,T,6.012606578166101e-16,Equity,Comm
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,SBUX,5.820469197831182e-16,Equity,Consumer
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,D,5.396877119896044e-16,Equity,Utilities
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,NKE,5.308025183526416e-16,Equity,Consumer
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,CMCSA,5.120474221903083e-16,Equity,Comm
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,AMGN,4.978411904833323e-16,Equity,Healthcare
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,DOW,3.293497641401174e-16,Equity,Materials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,GS,1.7220774828793777e-16,Equity,Financials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,O,1.3066227783614632e-16,Equity,RealEstate
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,V,6.550174431862155e-17,Equity,Financials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ABT,0.0,Equity,Healthcare
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,ADBE,0.0,Equity,Tech
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,AEP,0.0,Equity,Utilities
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,CAT,0.0,Equity,Industrials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,CCI,0.0,Equity,RealEstate
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,CVX,0.0,Equity,Energy
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,DUK,0.0,Equity,Utilities
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,EA,0.0,Equity,Comm
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,GE,0.0,Equity,Industrials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,KO,0.0,Equity,Consumer
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,MS,0.0,Equity,Financials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,NEE,0.0,Equity,Utilities
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,NEM,0.0,Equity,Materials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,PLD,0.0,Equity,RealEstate
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,SHW,0.0,Equity,Materials
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,SLB,0.0,Equity,Energy
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,SO,0.0,Equity,Utilities
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,TTWO,0.0,Equity,Comm
+Combined Maximum-Sharpe,combined,max_sharpe,2023-12-01,UPS,0.0,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,WMT,0.19860514314246835,Equity,Consumer
+Combined Minimum-Variance,combined,min_variance,2023-12-01,MRK,0.12824098479151919,Equity,Healthcare
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ABBV,0.11873640207839387,Equity,Healthcare
+Combined Minimum-Variance,combined,min_variance,2023-12-01,KO,0.10227958106191383,Equity,Consumer
+Combined Minimum-Variance,combined,min_variance,2023-12-01,GILD,0.10152383823295259,Equity,Healthcare
+Combined Minimum-Variance,combined,min_variance,2023-12-01,EA,0.10146206291092004,Equity,Comm
+Combined Minimum-Variance,combined,min_variance,2023-12-01,NEM,0.07878431574528925,Equity,Materials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,PSA,0.04835227048230823,Equity,RealEstate
+Combined Minimum-Variance,combined,min_variance,2023-12-01,MMM,0.043152508743797995,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,TTWO,0.03473575980991383,Equity,Comm
+Combined Minimum-Variance,combined,min_variance,2023-12-01,T,0.032307692943460926,Equity,Comm
+Combined Minimum-Variance,combined,min_variance,2023-12-01,UPS,0.011819440057061755,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,CMCSA,1.8651552389345747e-17,Equity,Comm
+Combined Minimum-Variance,combined,min_variance,2023-12-01,COP,1.8047086090094378e-17,Equity,Energy
+Combined Minimum-Variance,combined,min_variance,2023-12-01,TMUS,1.5938297209293433e-17,Equity,Comm
+Combined Minimum-Variance,combined,min_variance,2023-12-01,CAT,1.2293401018672053e-17,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,NKE,9.86697182602231e-18,Equity,Consumer
+Combined Minimum-Variance,combined,min_variance,2023-12-01,MS,9.82690753014837e-18,Equity,Financials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,XLM-USD,7.755701349795803e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,SO,7.295988621426032e-18,Equity,Utilities
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ETH-USD,6.789831615619474e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,CCI,5.740123165895163e-18,Equity,RealEstate
+Combined Minimum-Variance,combined,min_variance,2023-12-01,GE,5.706211839834654e-18,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,SBUX,5.594605644158944e-18,Equity,Consumer
+Combined Minimum-Variance,combined,min_variance,2023-12-01,USB,5.15426729147749e-18,Equity,Financials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,BCH-USD,4.8517969793348724e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,D,4.7517507504783596e-18,Equity,Utilities
+Combined Minimum-Variance,combined,min_variance,2023-12-01,QCOM,4.568226358422592e-18,Equity,Tech
+Combined Minimum-Variance,combined,min_variance,2023-12-01,GS,3.595659122448929e-18,Equity,Financials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,DD,3.412383259354927e-18,Equity,Materials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,WFC,2.9160870537300316e-18,Equity,Financials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,V,2.5950518789018566e-18,Equity,Financials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,DOW,1.7252164157067813e-18,Equity,Materials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,DUK,1.6373887521465059e-18,Equity,Utilities
+Combined Minimum-Variance,combined,min_variance,2023-12-01,BTC-USD,1.3089971538153692e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,DIS,1.2579184028759664e-18,Equity,Consumer
+Combined Minimum-Variance,combined,min_variance,2023-12-01,LTC-USD,1.100068673657108e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,TRX-USD,1.0837486069162707e-18,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ETC-USD,8.68551651592337e-19,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,XOM,1.443695174188662e-19,Equity,Energy
+Combined Minimum-Variance,combined,min_variance,2023-12-01,OXY,6.885520359698477e-20,Equity,Energy
+Combined Minimum-Variance,combined,min_variance,2023-12-01,AMGN,1.6436755629677668e-21,Equity,Healthcare
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ABT,0.0,Equity,Healthcare
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ADA-USD,0.0,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,ADBE,0.0,Equity,Tech
+Combined Minimum-Variance,combined,min_variance,2023-12-01,AEP,0.0,Equity,Utilities
+Combined Minimum-Variance,combined,min_variance,2023-12-01,AMD,0.0,Equity,Tech
+Combined Minimum-Variance,combined,min_variance,2023-12-01,AMT,0.0,Equity,RealEstate
+Combined Minimum-Variance,combined,min_variance,2023-12-01,BA,0.0,Equity,Industrials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,CVX,0.0,Equity,Energy
+Combined Minimum-Variance,combined,min_variance,2023-12-01,EOS-USD,0.0,Crypto,Crypto
+Combined Minimum-Variance,combined,min_variance,2023-12-01,INTC,0.0,Equity,Tech
+Combined Minimum-Variance,combined,min_variance,2023-12-01,NEE,0.0,Equity,Utilities
+Combined Minimum-Variance,combined,min_variance,2023-12-01,NUE,0.0,Equity,Materials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,NVDA,0.0,Equity,Tech
+Combined Minimum-Variance,combined,min_variance,2023-12-01,O,0.0,Equity,RealEstate
+Combined Minimum-Variance,combined,min_variance,2023-12-01,PLD,0.0,Equity,RealEstate
+Combined Minimum-Variance,combined,min_variance,2023-12-01,SHW,0.0,Equity,Materials
+Combined Minimum-Variance,combined,min_variance,2023-12-01,SLB,0.0,Equity,Energy
+Combined Minimum-Variance,combined,min_variance,2023-12-01,XRP-USD,0.0,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,WMT,0.03244632418031817,Equity,Consumer
+Combined Risk Parity,combined,risk_parity,2023-12-01,GILD,0.03124519990538902,Equity,Healthcare
+Combined Risk Parity,combined,risk_parity,2023-12-01,MRK,0.02986795534547283,Equity,Healthcare
+Combined Risk Parity,combined,risk_parity,2023-12-01,NEM,0.028722217764179946,Equity,Materials
+Combined Risk Parity,combined,risk_parity,2023-12-01,ABBV,0.027769367230712317,Equity,Healthcare
+Combined Risk Parity,combined,risk_parity,2023-12-01,EA,0.02748489108886236,Equity,Comm
+Combined Risk Parity,combined,risk_parity,2023-12-01,AMGN,0.024929889383557894,Equity,Healthcare
+Combined Risk Parity,combined,risk_parity,2023-12-01,KO,0.023752545765525167,Equity,Consumer
+Combined Risk Parity,combined,risk_parity,2023-12-01,AEP,0.023518023147348636,Equity,Utilities
+Combined Risk Parity,combined,risk_parity,2023-12-01,PSA,0.023024704721019126,Equity,RealEstate
+Combined Risk Parity,combined,risk_parity,2023-12-01,TTWO,0.022878117196245204,Equity,Comm
+Combined Risk Parity,combined,risk_parity,2023-12-01,T,0.02198523165754653,Equity,Comm
+Combined Risk Parity,combined,risk_parity,2023-12-01,DUK,0.020957103909537023,Equity,Utilities
+Combined Risk Parity,combined,risk_parity,2023-12-01,ABT,0.02092095996284153,Equity,Healthcare
+Combined Risk Parity,combined,risk_parity,2023-12-01,D,0.02058840268428392,Equity,Utilities
+Combined Risk Parity,combined,risk_parity,2023-12-01,TMUS,0.02043314049986888,Equity,Comm
+Combined Risk Parity,combined,risk_parity,2023-12-01,UPS,0.020229132459312283,Equity,Industrials
+Combined Risk Parity,combined,risk_parity,2023-12-01,MMM,0.019898751311959152,Equity,Industrials
+Combined Risk Parity,combined,risk_parity,2023-12-01,SO,0.019367535243620233,Equity,Utilities
+Combined Risk Parity,combined,risk_parity,2023-12-01,CMCSA,0.018459911415493545,Equity,Comm
+Combined Risk Parity,combined,risk_parity,2023-12-01,CCI,0.018325492229268207,Equity,RealEstate
+Combined Risk Parity,combined,risk_parity,2023-12-01,NEE,0.018255340417856675,Equity,Utilities
+Combined Risk Parity,combined,risk_parity,2023-12-01,SHW,0.018095152952691564,Equity,Materials
+Combined Risk Parity,combined,risk_parity,2023-12-01,AMT,0.01728304155680074,Equity,RealEstate
+Combined Risk Parity,combined,risk_parity,2023-12-01,O,0.0169653667329726,Equity,RealEstate
+Combined Risk Parity,combined,risk_parity,2023-12-01,CAT,0.01634309162259858,Equity,Industrials
+Combined Risk Parity,combined,risk_parity,2023-12-01,V,0.016326333953002547,Equity,Financials
+Combined Risk Parity,combined,risk_parity,2023-12-01,XOM,0.016281832208915933,Equity,Energy
+Combined Risk Parity,combined,risk_parity,2023-12-01,NKE,0.016079316426983854,Equity,Consumer
+Combined Risk Parity,combined,risk_parity,2023-12-01,SBUX,0.015494068530662777,Equity,Consumer
+Combined Risk Parity,combined,risk_parity,2023-12-01,PLD,0.015486184615630127,Equity,RealEstate
+Combined Risk Parity,combined,risk_parity,2023-12-01,DIS,0.015360912699062071,Equity,Consumer
+Combined Risk Parity,combined,risk_parity,2023-12-01,ADBE,0.014977410923566766,Equity,Tech
+Combined Risk Parity,combined,risk_parity,2023-12-01,CVX,0.014507985211102395,Equity,Energy
+Combined Risk Parity,combined,risk_parity,2023-12-01,DD,0.014292718492229463,Equity,Materials
+Combined Risk Parity,combined,risk_parity,2023-12-01,INTC,0.014220630393572922,Equity,Tech
+Combined Risk Parity,combined,risk_parity,2023-12-01,GS,0.014177690707104585,Equity,Financials
+Combined Risk Parity,combined,risk_parity,2023-12-01,GE,0.013919869104718699,Equity,Industrials
+Combined Risk Parity,combined,risk_parity,2023-12-01,QCOM,0.013645007260995302,Equity,Tech
+Combined Risk Parity,combined,risk_parity,2023-12-01,USB,0.013482162281009416,Equity,Financials
+Combined Risk Parity,combined,risk_parity,2023-12-01,NUE,0.013421528160688702,Equity,Materials
+Combined Risk Parity,combined,risk_parity,2023-12-01,DOW,0.013340951002370142,Equity,Materials
+Combined Risk Parity,combined,risk_parity,2023-12-01,WFC,0.013003901305178665,Equity,Financials
+Combined Risk Parity,combined,risk_parity,2023-12-01,COP,0.012733038280215698,Equity,Energy
+Combined Risk Parity,combined,risk_parity,2023-12-01,MS,0.012712216689220039,Equity,Financials
+Combined Risk Parity,combined,risk_parity,2023-12-01,AMD,0.012337499981025572,Equity,Tech
+Combined Risk Parity,combined,risk_parity,2023-12-01,SLB,0.012197956360353547,Equity,Energy
+Combined Risk Parity,combined,risk_parity,2023-12-01,NVDA,0.011285639019254327,Equity,Tech
+Combined Risk Parity,combined,risk_parity,2023-12-01,BTC-USD,0.011041605921465478,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,BA,0.010735527147474347,Equity,Industrials
+Combined Risk Parity,combined,risk_parity,2023-12-01,OXY,0.010497235036060521,Equity,Energy
+Combined Risk Parity,combined,risk_parity,2023-12-01,TRX-USD,0.00997795070184771,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,ETH-USD,0.008472919378334817,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,XRP-USD,0.008410999150596211,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,LTC-USD,0.008410051226945568,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,BCH-USD,0.008134157418662625,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,EOS-USD,0.007963355006028046,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,XLM-USD,0.007962410481804133,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,ADA-USD,0.007749731796275971,Crypto,Crypto
+Combined Risk Parity,combined,risk_parity,2023-12-01,ETC-USD,0.007612312742358934,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,ADA-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,BCH-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,BTC-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,EOS-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,ETC-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,ETH-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,LTC-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,TRX-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,XLM-USD,0.1,Crypto,Crypto
+Crypto Equal-Weight,crypto,equal_weight,2023-12-01,XRP-USD,0.1,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,ADA-USD,0.24999999999999972,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,ETH-USD,0.24999999999999972,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,TRX-USD,0.24999999999999972,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,BTC-USD,0.20913392382759627,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,XRP-USD,0.027396085182688205,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,ETC-USD,0.013469990989716449,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,BCH-USD,0.0,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,EOS-USD,0.0,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,LTC-USD,0.0,Crypto,Crypto
+Crypto Maximum-Sharpe,crypto,max_sharpe,2023-12-01,XLM-USD,0.0,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,TRX-USD,0.24999999999999994,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,ETH-USD,0.24999999999999992,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,BTC-USD,0.24999999999999983,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,LTC-USD,0.107515220390141,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,ADA-USD,0.05709302642763477,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,XLM-USD,0.049514113826977076,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,XRP-USD,0.03587763935524728,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,EOS-USD,8.220211231130648e-17,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,BCH-USD,0.0,Crypto,Crypto
+Crypto Minimum-Variance,crypto,min_variance,2023-12-01,ETC-USD,0.0,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,BTC-USD,0.14318399257219014,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,TRX-USD,0.11246549861871447,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,ETH-USD,0.1050977998794727,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,LTC-USD,0.09717599073179037,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,ADA-USD,0.09573245285389423,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,XLM-USD,0.09164951788326356,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,XRP-USD,0.09112115672257493,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,BCH-USD,0.09088322888579818,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,EOS-USD,0.08658498496817264,Crypto,Crypto
+Crypto Risk Parity,crypto,risk_parity,2023-12-01,ETC-USD,0.08610537688412866,Crypto,Crypto
+Equity Equal-Weight,equity,equal_weight,2023-12-01,ABBV,0.02,Equity,Healthcare
+Equity Equal-Weight,equity,equal_weight,2023-12-01,ABT,0.02,Equity,Healthcare
+Equity Equal-Weight,equity,equal_weight,2023-12-01,ADBE,0.02,Equity,Tech
+Equity Equal-Weight,equity,equal_weight,2023-12-01,AEP,0.02,Equity,Utilities
+Equity Equal-Weight,equity,equal_weight,2023-12-01,AMD,0.02,Equity,Tech
+Equity Equal-Weight,equity,equal_weight,2023-12-01,AMGN,0.02,Equity,Healthcare
+Equity Equal-Weight,equity,equal_weight,2023-12-01,AMT,0.02,Equity,RealEstate
+Equity Equal-Weight,equity,equal_weight,2023-12-01,BA,0.02,Equity,Industrials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,CAT,0.02,Equity,Industrials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,CCI,0.02,Equity,RealEstate
+Equity Equal-Weight,equity,equal_weight,2023-12-01,CMCSA,0.02,Equity,Comm
+Equity Equal-Weight,equity,equal_weight,2023-12-01,COP,0.02,Equity,Energy
+Equity Equal-Weight,equity,equal_weight,2023-12-01,CVX,0.02,Equity,Energy
+Equity Equal-Weight,equity,equal_weight,2023-12-01,D,0.02,Equity,Utilities
+Equity Equal-Weight,equity,equal_weight,2023-12-01,DD,0.02,Equity,Materials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,DIS,0.02,Equity,Consumer
+Equity Equal-Weight,equity,equal_weight,2023-12-01,DOW,0.02,Equity,Materials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,DUK,0.02,Equity,Utilities
+Equity Equal-Weight,equity,equal_weight,2023-12-01,EA,0.02,Equity,Comm
+Equity Equal-Weight,equity,equal_weight,2023-12-01,GE,0.02,Equity,Industrials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,GILD,0.02,Equity,Healthcare
+Equity Equal-Weight,equity,equal_weight,2023-12-01,GS,0.02,Equity,Financials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,INTC,0.02,Equity,Tech
+Equity Equal-Weight,equity,equal_weight,2023-12-01,KO,0.02,Equity,Consumer
+Equity Equal-Weight,equity,equal_weight,2023-12-01,MMM,0.02,Equity,Industrials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,MRK,0.02,Equity,Healthcare
+Equity Equal-Weight,equity,equal_weight,2023-12-01,MS,0.02,Equity,Financials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,NEE,0.02,Equity,Utilities
+Equity Equal-Weight,equity,equal_weight,2023-12-01,NEM,0.02,Equity,Materials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,NKE,0.02,Equity,Consumer
+Equity Equal-Weight,equity,equal_weight,2023-12-01,NUE,0.02,Equity,Materials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,NVDA,0.02,Equity,Tech
+Equity Equal-Weight,equity,equal_weight,2023-12-01,O,0.02,Equity,RealEstate
+Equity Equal-Weight,equity,equal_weight,2023-12-01,OXY,0.02,Equity,Energy
+Equity Equal-Weight,equity,equal_weight,2023-12-01,PLD,0.02,Equity,RealEstate
+Equity Equal-Weight,equity,equal_weight,2023-12-01,PSA,0.02,Equity,RealEstate
+Equity Equal-Weight,equity,equal_weight,2023-12-01,QCOM,0.02,Equity,Tech
+Equity Equal-Weight,equity,equal_weight,2023-12-01,SBUX,0.02,Equity,Consumer
+Equity Equal-Weight,equity,equal_weight,2023-12-01,SHW,0.02,Equity,Materials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,SLB,0.02,Equity,Energy
+Equity Equal-Weight,equity,equal_weight,2023-12-01,SO,0.02,Equity,Utilities
+Equity Equal-Weight,equity,equal_weight,2023-12-01,T,0.02,Equity,Comm
+Equity Equal-Weight,equity,equal_weight,2023-12-01,TMUS,0.02,Equity,Comm
+Equity Equal-Weight,equity,equal_weight,2023-12-01,TTWO,0.02,Equity,Comm
+Equity Equal-Weight,equity,equal_weight,2023-12-01,UPS,0.02,Equity,Industrials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,USB,0.02,Equity,Financials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,V,0.02,Equity,Financials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,WFC,0.02,Equity,Financials
+Equity Equal-Weight,equity,equal_weight,2023-12-01,WMT,0.02,Equity,Consumer
+Equity Equal-Weight,equity,equal_weight,2023-12-01,XOM,0.02,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,ABBV,0.19999999999999926,Equity,Healthcare
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,NUE,0.19999999999999926,Equity,Materials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,NVDA,0.19999999999999926,Equity,Tech
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,TMUS,0.14174793423934887,Equity,Comm
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,WMT,0.11002021575327643,Equity,Consumer
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,GILD,0.09261092436751168,Equity,Healthcare
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,XOM,0.04834004798892457,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,NEM,0.006978928806023548,Equity,Materials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,PSA,0.000301948844913252,Equity,RealEstate
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,DIS,5.734944665772109e-16,Equity,Consumer
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,DOW,4.59429641620493e-16,Equity,Materials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,CAT,4.376029202438822e-16,Equity,Industrials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,CVX,3.9091253771216203e-16,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,DUK,3.8967000735558627e-16,Equity,Utilities
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,USB,2.5166707759479893e-16,Equity,Financials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,SO,2.380216687847051e-16,Equity,Utilities
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,WFC,2.235091886016012e-16,Equity,Financials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,QCOM,1.5021956277615235e-16,Equity,Tech
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,ABT,1.249498906969693e-16,Equity,Healthcare
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,MRK,1.228197480083161e-16,Equity,Healthcare
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,AMD,1.0447655431130895e-16,Equity,Tech
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,DD,8.13153259088541e-17,Equity,Materials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,GE,7.128087689721583e-17,Equity,Industrials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,UPS,6.515406962414012e-17,Equity,Industrials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,SLB,6.366443565234304e-17,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,MS,5.835279872182704e-17,Equity,Financials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,V,5.626705949855215e-17,Equity,Financials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,ADBE,3.5695289422595236e-17,Equity,Tech
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,TTWO,2.801235648386394e-17,Equity,Comm
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,EA,2.7259469925207976e-17,Equity,Comm
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,KO,2.3625308152237914e-17,Equity,Consumer
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,AEP,0.0,Equity,Utilities
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,AMGN,0.0,Equity,Healthcare
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,AMT,0.0,Equity,RealEstate
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,BA,0.0,Equity,Industrials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,CCI,0.0,Equity,RealEstate
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,CMCSA,0.0,Equity,Comm
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,COP,0.0,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,D,0.0,Equity,Utilities
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,GS,0.0,Equity,Financials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,INTC,0.0,Equity,Tech
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,MMM,0.0,Equity,Industrials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,NEE,0.0,Equity,Utilities
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,NKE,0.0,Equity,Consumer
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,O,0.0,Equity,RealEstate
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,OXY,0.0,Equity,Energy
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,PLD,0.0,Equity,RealEstate
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,SBUX,0.0,Equity,Consumer
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,SHW,0.0,Equity,Materials
+Equity Maximum-Sharpe,equity,max_sharpe,2023-12-01,T,0.0,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,WMT,0.19860512815349984,Equity,Consumer
+Equity Minimum-Variance,equity,min_variance,2023-12-01,MRK,0.12824073142968023,Equity,Healthcare
+Equity Minimum-Variance,equity,min_variance,2023-12-01,ABBV,0.11873666455900146,Equity,Healthcare
+Equity Minimum-Variance,equity,min_variance,2023-12-01,KO,0.10227823827959846,Equity,Consumer
+Equity Minimum-Variance,equity,min_variance,2023-12-01,GILD,0.10152429571176093,Equity,Healthcare
+Equity Minimum-Variance,equity,min_variance,2023-12-01,EA,0.10146139634449729,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,NEM,0.0787840930053582,Equity,Materials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,PSA,0.04835212100675996,Equity,RealEstate
+Equity Minimum-Variance,equity,min_variance,2023-12-01,MMM,0.04315237964037781,Equity,Industrials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,TTWO,0.03473667532264972,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,T,0.03230800395901712,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,UPS,0.011820272587798853,Equity,Industrials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,AEP,2.880071788862227e-17,Equity,Utilities
+Equity Minimum-Variance,equity,min_variance,2023-12-01,ABT,2.1300222326738963e-17,Equity,Healthcare
+Equity Minimum-Variance,equity,min_variance,2023-12-01,DOW,1.3256301411440533e-17,Equity,Materials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,XOM,1.0816663557569344e-17,Equity,Energy
+Equity Minimum-Variance,equity,min_variance,2023-12-01,DD,1.0725663563570097e-17,Equity,Materials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,CAT,1.027487338912858e-17,Equity,Industrials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,CVX,7.934514725789711e-18,Equity,Energy
+Equity Minimum-Variance,equity,min_variance,2023-12-01,SLB,7.13241674631669e-18,Equity,Energy
+Equity Minimum-Variance,equity,min_variance,2023-12-01,GE,6.691473840472119e-18,Equity,Industrials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,QCOM,6.31706966967177e-18,Equity,Tech
+Equity Minimum-Variance,equity,min_variance,2023-12-01,PLD,5.6529384391833854e-18,Equity,RealEstate
+Equity Minimum-Variance,equity,min_variance,2023-12-01,MS,5.2141055538384204e-18,Equity,Financials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,USB,4.6684350173108835e-18,Equity,Financials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,AMGN,4.556808153809349e-18,Equity,Healthcare
+Equity Minimum-Variance,equity,min_variance,2023-12-01,V,3.1696942074170386e-18,Equity,Financials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,ADBE,2.7694572616238302e-18,Equity,Tech
+Equity Minimum-Variance,equity,min_variance,2023-12-01,DUK,2.2902408024912473e-18,Equity,Utilities
+Equity Minimum-Variance,equity,min_variance,2023-12-01,INTC,1.650052889665458e-18,Equity,Tech
+Equity Minimum-Variance,equity,min_variance,2023-12-01,SHW,1.2400859522238483e-18,Equity,Materials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,SBUX,5.013464519042711e-19,Equity,Consumer
+Equity Minimum-Variance,equity,min_variance,2023-12-01,AMD,0.0,Equity,Tech
+Equity Minimum-Variance,equity,min_variance,2023-12-01,AMT,0.0,Equity,RealEstate
+Equity Minimum-Variance,equity,min_variance,2023-12-01,BA,0.0,Equity,Industrials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,CCI,0.0,Equity,RealEstate
+Equity Minimum-Variance,equity,min_variance,2023-12-01,CMCSA,0.0,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,COP,0.0,Equity,Energy
+Equity Minimum-Variance,equity,min_variance,2023-12-01,D,0.0,Equity,Utilities
+Equity Minimum-Variance,equity,min_variance,2023-12-01,DIS,0.0,Equity,Consumer
+Equity Minimum-Variance,equity,min_variance,2023-12-01,GS,0.0,Equity,Financials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,NEE,0.0,Equity,Utilities
+Equity Minimum-Variance,equity,min_variance,2023-12-01,NKE,0.0,Equity,Consumer
+Equity Minimum-Variance,equity,min_variance,2023-12-01,NUE,0.0,Equity,Materials
+Equity Minimum-Variance,equity,min_variance,2023-12-01,NVDA,0.0,Equity,Tech
+Equity Minimum-Variance,equity,min_variance,2023-12-01,O,0.0,Equity,RealEstate
+Equity Minimum-Variance,equity,min_variance,2023-12-01,OXY,0.0,Equity,Energy
+Equity Minimum-Variance,equity,min_variance,2023-12-01,SO,0.0,Equity,Utilities
+Equity Minimum-Variance,equity,min_variance,2023-12-01,TMUS,0.0,Equity,Comm
+Equity Minimum-Variance,equity,min_variance,2023-12-01,WFC,0.0,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,WMT,0.036445905997540336,Equity,Consumer
+Equity Risk Parity,equity,risk_parity,2023-12-01,GILD,0.033349781256620324,Equity,Healthcare
+Equity Risk Parity,equity,risk_parity,2023-12-01,NEM,0.03213983012803506,Equity,Materials
+Equity Risk Parity,equity,risk_parity,2023-12-01,MRK,0.03211882626410539,Equity,Healthcare
+Equity Risk Parity,equity,risk_parity,2023-12-01,EA,0.030640311326955195,Equity,Comm
+Equity Risk Parity,equity,risk_parity,2023-12-01,ABBV,0.02979369345283152,Equity,Healthcare
+Equity Risk Parity,equity,risk_parity,2023-12-01,AMGN,0.02661338592692055,Equity,Healthcare
+Equity Risk Parity,equity,risk_parity,2023-12-01,TTWO,0.026054202363290913,Equity,Comm
+Equity Risk Parity,equity,risk_parity,2023-12-01,KO,0.02528013827443861,Equity,Consumer
+Equity Risk Parity,equity,risk_parity,2023-12-01,AEP,0.02500893261651526,Equity,Utilities
+Equity Risk Parity,equity,risk_parity,2023-12-01,PSA,0.02475790563494674,Equity,RealEstate
+Equity Risk Parity,equity,risk_parity,2023-12-01,T,0.023503371512922148,Equity,Comm
+Equity Risk Parity,equity,risk_parity,2023-12-01,TMUS,0.023272772002622084,Equity,Comm
+Equity Risk Parity,equity,risk_parity,2023-12-01,ABT,0.022728838641649093,Equity,Healthcare
+Equity Risk Parity,equity,risk_parity,2023-12-01,DUK,0.02238096886216745,Equity,Utilities
+Equity Risk Parity,equity,risk_parity,2023-12-01,UPS,0.021782345115259328,Equity,Industrials
+Equity Risk Parity,equity,risk_parity,2023-12-01,MMM,0.021613194641591556,Equity,Industrials
+Equity Risk Parity,equity,risk_parity,2023-12-01,D,0.021572010720692997,Equity,Utilities
+Equity Risk Parity,equity,risk_parity,2023-12-01,SO,0.02056436019698947,Equity,Utilities
+Equity Risk Parity,equity,risk_parity,2023-12-01,CMCSA,0.02050018732405538,Equity,Comm
+Equity Risk Parity,equity,risk_parity,2023-12-01,NEE,0.020041160870594422,Equity,Utilities
+Equity Risk Parity,equity,risk_parity,2023-12-01,SHW,0.019761331642157088,Equity,Materials
+Equity Risk Parity,equity,risk_parity,2023-12-01,CCI,0.01961752219410886,Equity,RealEstate
+Equity Risk Parity,equity,risk_parity,2023-12-01,AMT,0.018741910223174854,Equity,RealEstate
+Equity Risk Parity,equity,risk_parity,2023-12-01,O,0.01815403062050767,Equity,RealEstate
+Equity Risk Parity,equity,risk_parity,2023-12-01,V,0.017956587817031168,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,CAT,0.01795281648433009,Equity,Industrials
+Equity Risk Parity,equity,risk_parity,2023-12-01,NKE,0.0179007280189109,Equity,Consumer
+Equity Risk Parity,equity,risk_parity,2023-12-01,XOM,0.01765698993015292,Equity,Energy
+Equity Risk Parity,equity,risk_parity,2023-12-01,DIS,0.017347839027694902,Equity,Consumer
+Equity Risk Parity,equity,risk_parity,2023-12-01,SBUX,0.01719413201709721,Equity,Consumer
+Equity Risk Parity,equity,risk_parity,2023-12-01,ADBE,0.01713767912991905,Equity,Tech
+Equity Risk Parity,equity,risk_parity,2023-12-01,PLD,0.01671602125921143,Equity,RealEstate
+Equity Risk Parity,equity,risk_parity,2023-12-01,INTC,0.01592493375243002,Equity,Tech
+Equity Risk Parity,equity,risk_parity,2023-12-01,DD,0.015740271591652682,Equity,Materials
+Equity Risk Parity,equity,risk_parity,2023-12-01,CVX,0.015628542276262303,Equity,Energy
+Equity Risk Parity,equity,risk_parity,2023-12-01,GS,0.015621542694612751,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,QCOM,0.015427756218700395,Equity,Tech
+Equity Risk Parity,equity,risk_parity,2023-12-01,GE,0.015212161623672504,Equity,Industrials
+Equity Risk Parity,equity,risk_parity,2023-12-01,NUE,0.015059722134770009,Equity,Materials
+Equity Risk Parity,equity,risk_parity,2023-12-01,DOW,0.014677470469633446,Equity,Materials
+Equity Risk Parity,equity,risk_parity,2023-12-01,USB,0.014625212754772616,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,AMD,0.014264722403169406,Equity,Tech
+Equity Risk Parity,equity,risk_parity,2023-12-01,WFC,0.014153774433754233,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,MS,0.013981276913016568,Equity,Financials
+Equity Risk Parity,equity,risk_parity,2023-12-01,COP,0.013838502968763272,Equity,Energy
+Equity Risk Parity,equity,risk_parity,2023-12-01,SLB,0.013364171714322382,Equity,Energy
+Equity Risk Parity,equity,risk_parity,2023-12-01,NVDA,0.01308071297348412,Equity,Tech
+Equity Risk Parity,equity,risk_parity,2023-12-01,BA,0.011902071095373638,Equity,Industrials
+Equity Risk Parity,equity,risk_parity,2023-12-01,OXY,0.011197442486569724,Equity,Energy
